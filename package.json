@@ -19,7 +19,8 @@
   "homepage": "https://github.com/joaotdn/adopets#readme",
   "dependencies": {
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2"
   },
   "devDependencies": {
     "@types/node": "^13.1.4",
