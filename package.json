@@ -1,0 +1,19 @@
+{
+  "name": "adopets-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaotdn/adopets.git"
+  },
+  "author": "João Teodoro <joaotdn@gmail.com> (https://github.com/joaotdn/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaotdn/adopets/issues"
+  },
+  "homepage": "https://github.com/joaotdn/adopets#readme"
+}
